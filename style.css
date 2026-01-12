@@ -26,7 +26,12 @@ article {
 
 .article-card {
     border: 1px solid #000;
-    padding: 8px;
+    padding: 16px;
+    min-height: 160px;
+}
+
+.article-card h2 {
+    margin-bottom: 4px;
 }
 
 footer {
